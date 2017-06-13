@@ -1,0 +1,158 @@
+body {
+	background: grey;
+	margin: 0;
+	padding: 0;
+
+}
+#block1{
+	height: 500px;
+	width: 1212px;
+	background-color: white;
+	margin-top: 7%;
+	margin-left: 5%;
+	margin-right: 5%;
+	border: 1px solid #e7e8ec;
+	
+}
+#block2{
+	height: 500px;
+	width: 1212px;
+	background-color: white;
+	margin-top: 3%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 4%;
+	border: 1px solid #e7e8ec;
+	
+	
+}
+#poloska{
+	height: 50px;
+	width: 100%;
+	top: 0px;
+	background-color: #507299;
+	
+	position: fixed;
+
+}
+
+#opendivs{
+	width: 100px;
+	margin-left: 90%;
+	margin-top: 8px;
+}
+#poloska a {
+font-family: 'Gloria Hallelujah', cursive;
+text-decoration: none;
+margin-left: 20px;
+
+display: inline-block;
+font-size: 20px;
+
+
+color: white;
+}
+#pontu{
+	text-align: center;
+	font-family: 'Gloria Hallelujah', cursive;
+	color: white;
+	text-shadow: 1px 1px 2px black, 0 0 1em black;
+}
+
+#monitor{
+width: 700px;
+height: 300px;
+background: green;
+margin-left: 20%;
+margin-top: 0%;
+border: 30px solid black;
+display: block;
+word-wrap:break-word;
+
+}
+#poleVvoda{
+	width: 300px;
+	height: 138px;
+	
+	background-color:#507299;
+	margin-left: 38%;
+	position: relative;
+	
+} 
+#knopka{
+	position: absolute;
+	bottom: 50px;
+	left: 38%;
+}
+#vvod{
+	margin-left: 25%;
+}
+#text{
+	color: white;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 50px;
+	margin-left: 10%;
+	margin-top: 50px;
+	width: auto;
+}
+#formochka {
+	
+	margin-left: 0%;
+	margin-top: 0%; 
+	border: 1px solid red;
+	width: 100%;
+	height: 100%;
+	display: inline-block;
+}
+#otvetka {
+	background-color: red;
+	width: 50%;
+	height: 100%;
+}
+#formochka a {
+	margin-left: 80%;
+	display: inline-block;
+}
+
+.pustoy{
+	height: 500px;
+	width: 1212px;
+	background-color: white;
+	margin-top: 7%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 4%;
+	border: 1px solid #e7e8ec;
+
+}
+#iok {
+		height: 500px;
+	width: 1212px;
+	background-color: green;
+	margin-top: 7%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 4%;
+	border: 1px solid #e7e8ec;
+
+}
+#kvadratik {
+	height: 100px;
+	width: 100px;
+	background: red;
+	border-radius: 50px 50px 50px 50px;
+	
+}
+.uuu  {
+	padding-left: 60%;
+	
+	font-size: 20px;
+}
+#nazva {
+	margin-left: 10%;
+	font-size: 30px;
+}
+#samtext {
+	
+	font-size: 20px;
+}
